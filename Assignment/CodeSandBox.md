@@ -6,7 +6,7 @@
 * CodeSandBox 페이지 상단의 Fork 글자 옆 화살표를 눌러 자신의 아이디를 선택하고 Fork 해주세요.
 <img width="617" alt="image" src="https://github.com/woogie01/javascript-vanillajs/assets/113490741/cfb864e5-9c0b-42df-9756-bc3aa08039a1">
 
-### 💻코딩
+### 👨🏻‍💻코딩
 * 템플릿에서 그대로 코딩을 진행해주세요.
 * 코딩을 완료한 후, 커맨드/ctrl + S를 눌러 저장합니다.
 
