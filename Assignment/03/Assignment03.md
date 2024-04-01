@@ -17,7 +17,7 @@ https://github.com/woogie01/javascript-vanillajs/assets/113490741/85967095-f9bb-
 1. 유저에게 게임의 승패를 알려야 합니다.
 
 ### 🍀힌트
-1. 랜덤 한 숫자를 찾는 방법 [참고자료]([https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/if...else](https://nomadcoders.co/javascript-for-beginners/lectures/2911))
+1. 랜덤 한 숫자를 찾는 방법 [참고자료](https://nomadcoders.co/javascript-for-beginners/lectures/2911)
 1. <form> : 사용자로부터 입력을 받을 수 있는 입력 폼을 정의할 때 사용하는 태그, 입력된 정보를 제출한다. [참고자료]([https://developer.mozilla.org/ko/docs/Web/API/Element/classList](https://developer.mozilla.org/ko/docs/Web/HTML/Element/form))
 1. querySelector : CSS 선택자 형식을 사용해 HTML의 요소를 JS에서 사용하도록 가져온다. 다만, 같은 클래스명을 가지고 있다면 가장 첫 번째 요소만을 가져온다. [참고자료](https://developer.mozilla.org/ko/docs/Web/API/Document/querySelector)
 1. preventDefault() : 이벤트마다 가지고 있는 브라우저에서 발생하는 고유 동작을 막기 위해 사용한다. [참고자료]([https://developer.mozilla.org/ko/docs/Web/API/Element/classList](https://developer.mozilla.org/ko/docs/Web/API/Event/preventDefault))
