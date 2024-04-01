@@ -20,7 +20,7 @@ https://github.com/woogie01/javascript-vanillajs/assets/113490741/85967095-f9bb-
 1. form : 사용자로부터 입력을 받을 수 있는 입력 폼(form)을 정의할 때 사용하는 태그 [참고자료](https://developer.mozilla.org/ko/docs/Web/HTML/Element/form)
 1. 랜덤 한 숫자를 찾는 방법 [참고자료](https://nomadcoders.co/javascript-for-beginners/lectures/2911)
 1. querySelector : CSS 선택자 형식을 사용해 HTML의 요소를 JS에서 사용하도록 가져온다. [참고자료](https://developer.mozilla.org/ko/docs/Web/API/Document/querySelector) 
-1. preventDefault() : 이벤트마다 가지고 있는 브라우저에서 발생하는 고유 동작을 막기 위해 사용한다. [참고자료]()(https://developer.mozilla.org/ko/docs/Web/API/Event/preventDefault)
+1. preventDefault() : 이벤트마다 가지고 있는 브라우저에서 발생하는 고유 동작을 막기 위해 사용한다. [참고자료](https://developer.mozilla.org/ko/docs/Web/API/Event/preventDefault)
 1. Math.ceil() : 주어진 숫자를 올림 하기 위해 사용하는 함수, 숫자는 정수 형태로 반환한다. [참고자료](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
 1. parseInt() : 주어진 문자열을 정수형으로 변환해서 반환하는 함수 [참고자료](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
 1. innerHTML : 요소 내에 포함된 HTML을 나타내는 프로퍼티, HTML을 읽어들이거나 설정한다 [참고자료](https://developer.mozilla.org/ko/docs/Web/API/Element/innerHTML)
